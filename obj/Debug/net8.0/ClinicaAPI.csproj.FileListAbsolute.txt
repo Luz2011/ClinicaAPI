@@ -111,4 +111,5 @@ C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\refint\Clinic
 C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.pdb
 C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.genruntimeconfig.cache
 C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ref\ClinicaAPI.dll
+C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.sourcelink.json
 C:\Users\traba\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
